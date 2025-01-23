@@ -24,7 +24,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
                     console.log('title saved: ' + title, 'url: ' + url);
                 });
 
-                updateTitleTab(tabId, title);
+                updateTitleTab(tabs[0].id, title);
             });
         });
     }
