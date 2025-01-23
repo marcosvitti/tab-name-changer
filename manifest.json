@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Name Changer",
+    "version": "1.0",
+    "description": "Extension for change and save tab title in Chrome.",
+    "permissions": [
+        "tabs",
+        "scripting",
+        "storage"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "background": {
+        "service_worker": "src/background.js"
+    },
+    "action": {
+        "default_popup": "src/popup.html",
+        "default_icon": "assets/icon.png"
+    },
+    "icons": {
+        "16": "assets/icon.png",
+        "48": "assets/icon.png",
+        "128": "assets/icon.png"
+    }
+}

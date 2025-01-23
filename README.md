@@ -25,7 +25,7 @@ To load the Extension in Chrome follow these steps:
                 <li>Open <code>chrome://extensions</code>
                 <li>Check the <strong>Developer mode</strong> checkbox
                 <li>Click on the <strong>Load unpacked extension</strong> button
-                <li>Select the <code>src</code> folder (<code>where-you-unpacked-the-ZIP/src</code>)
+                <li>Select the <code>tab-name-changer</code> folder
             </ol>
         </td>
     </tr>
