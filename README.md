@@ -1,9 +1,9 @@
 <div align='center'>
-    <img src="assets/icon.png" />
+    <img src="assets/banner.jpg" />
 </div>
 
 <h1 align='center'>
-    Tab Name Changer: Extension for change and save tab title in Chrome
+    <div style="width:70px; height:70px; background-color:#000;"><img src="assets/icon.pngbanner.jpg" /></div> Tab Name Changer: Extension for change and save tab title in Chrome
 </h1>
 
 ## Installation
