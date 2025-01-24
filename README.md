@@ -10,7 +10,7 @@
 
 Do you want to use this extension? You're very welcome.
 
-1.  Download the [ZIP](https://github.com/marcosvitti/tab-name-changer/extension/master.zip) extension of the repository.
+1.  Download the [ZIP](https://github.com/marcosvitti/tab-name-changer/extension/tab-name-changer.zip) extension of the repository.
 2.  Unpack somewhere.
 
 To load the Extension in Chrome follow these steps:
